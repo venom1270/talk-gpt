@@ -128,6 +128,10 @@
 
 </script>
 
+<svelte:head>
+	<title>TalkGPT</title>
+	<meta name="description" content="TalkGPT app" />
+</svelte:head>
 
 <main>
     <h1>🧑💬 TalkGPT 🗨️🤖</h1>
